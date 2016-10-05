@@ -1,0 +1,5 @@
+"id","gateway_model_name","name"
+"esms_twilio","esms.twilio","TWILIO"
+"esms_smsgateway","esms.smsgateway","SMSGATEWAY"
+"esms_smsglobal","esms.smsglobal","SMS GLOBAL"
+"esms_sms_masivos_gateway","esms.smsmasivos","sms masivos"
